@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    min-width: 770px;
+}
+.logo{
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 20px;
+}
+.conteudo{
+    margin: 100px 10px 10px 10px;
+    align-items: center;
+}
+.texto-perfil{
+    width: 40%;
+    padding: 10px auto;
+    display: inline;
+    float: left;
+    position: relative;
+    left: 80px;
+}
+.img-perfil{
+    width: 30%;
+    display: inline;
+    float: right;
+    position: relative;
+    right: 200px;
+    top: 50px;
+}
